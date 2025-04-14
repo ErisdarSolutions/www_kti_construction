@@ -8,4 +8,31 @@
 	</buildSpec>
 	<natures>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>css</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>index.html</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/www/index.html</locationURI>
+		</link>
+		<link>
+			<name>js</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>css/post-2.css</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/www/css/post-2.css</locationURI>
+		</link>
+		<link>
+			<name>js/lazyload.min.js</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/www/js/lazyload.min.js</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
